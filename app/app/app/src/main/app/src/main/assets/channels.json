@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {"id": "tvperu", "name": "TV Perú", "category": "Nacional", "streamUrls": ["https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8"]},
+    {"id": "latina", "name": "Latina", "category": "Nacional", "streamUrls": ["https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"]},
+    {"id": "atv", "name": "ATV", "category": "Nacional", "streamUrls": ["https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8", "https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8"]},
+    {"id": "atvmas", "name": "ATV+", "category": "Nacional", "streamUrls": ["https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8"]},
+    {"id": "atvsur", "name": "ATV Sur", "category": "Regional", "streamUrls": ["https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8"]},
+    {"id": "latinanoticias", "name": "Latina Noticias", "category": "Noticias", "streamUrls": ["https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8", "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8"]},
+    {"id": "latinaclasicos", "name": "Latina Clásicos", "category": "Entretenimiento", "streamUrls": ["https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8"]},
+    {"id": "rpptv", "name": "RPP TV", "category": "Noticias", "streamUrls": ["https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8"]},
+    {"id": "exitosa", "name": "Exitosa TV", "category": "Noticias", "streamUrls": ["https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"]},
+    {"id": "andinatv", "name": "Andina TV", "category": "Noticias", "streamUrls": ["https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8"]},
+    {"id": "jnetv", "name": "JNE TV", "category": "Noticias", "streamUrls": ["https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"]},
+    {"id": "cultura24", "name": "Cultura 24", "category": "Cultura", "streamUrls": ["https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"]},
+    {"id": "folklore", "name": "Folklore TV", "category": "Cultura", "streamUrls": ["https://play.folkloretv.pe/StreamSD/index.m3u8"]},
+    {"id": "ecotv", "name": "ECO Televisión", "category": "Regional", "streamUrls": ["https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8", "https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8"]},
+    {"id": "ondadigital", "name": "Onda Digital", "category": "Música", "streamUrls": ["https://tv.ondadigital.pe/ondadigital/index.m3u8", "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8"]},
+    {"id": "huachotv", "name": "Huacho Perú TV", "category": "Regional", "streamUrls": ["https://tv.huachotv.com/stream.m3u8"]},
+    {"id": "trivu", "name": "Trivu", "category": "Entretenimiento", "streamUrls": ["https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8", "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8"]},
+    {"id": "milenial", "name": "Milenial TV", "category": "Noticias", "streamUrls": ["https://www.milenial.news/salida/milenial.m3u8"]},
+    {"id": "bethel", "name": "Bethel TV", "category": "Religioso", "streamUrls": ["https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"]},
+    {"id": "sanborja", "name": "Radio San Borja TV", "category": "Música", "streamUrls": ["https://stream.mediacorp.pe/srt/3/playlist.m3u8"]}
+  ]
+}
